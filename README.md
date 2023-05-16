@@ -1,16 +1,13 @@
-# uts_pemerograman_mobile
+## UTS PEMROGRAMAN MOBILE
 
-A new Flutter project.
+## Profil
+| | Biodata |
+| -------- | --- |
+| **Nama** | Rangga Saputra |
+| **NIM** | 312010266 |
+| **Kelas** | TI.20.A2 |
+| **Mata Kuliah** | Pemrograman Mobile |
 
-## Getting Started
+## Menampilkan Halaman Login Menggunakan Flutter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![gambar 1](IMG/login.PNG) <br>
